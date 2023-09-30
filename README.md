@@ -65,4 +65,4 @@ To use the File Uploader LWC in your Salesforce org, follow these steps:
 For questions, support, or feedback, please feel free to reach out:
 
 - **Telegram**: [@shivam_l](https://t.me/shivam_l)
-- **LinkedIn**: [Shivam Laidwar](https://www.linkedin.com/in/shivam-laidwar/)
+- **LinkedIn**: [Shivam Laidwar](https://www.linkedin.com/in/shivam-laidwar/) .
